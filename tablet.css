@@ -4,7 +4,6 @@
 
 .profile__image {
   position: static;
-  display: block;
   width: 200px;
   height: 200px;
   border-radius: 50%;
