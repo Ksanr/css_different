@@ -8,8 +8,19 @@
   height: 200px;
 
   border-radius: 50%;
+  margin-bottom: 20px;
+  border: 4px solid white;
 }
 
 .profile::after {
   display: none;
+}
+
+.profile__contacts {
+  display: block;
+}
+
+.profile__contact {
+  display: inline;
+  margin: 0 10px;
 }
