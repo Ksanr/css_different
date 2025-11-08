@@ -1,7 +1,15 @@
+.profile {
+  backgrounf: mediumpurple;
+}
+
 .profile__image {
   postition: static;
   width: 200px;
   height: 200px;
 
   border-radius: 50%;
+}
+
+.profile::after {
+  display: none;
 }
