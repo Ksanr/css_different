@@ -1,9 +1,9 @@
 .profile {
-  backgrounf: mediumpurple;
+  background: mediumpurple;
 }
 
 .profile__image {
-  postition: static;
+  position: static;
   width: 200px;
   height: 200px;
 
